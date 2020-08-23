@@ -1,0 +1,1 @@
+select * from ogrenci where bolum_id between 1 and 2 order by bolum_id

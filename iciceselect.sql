@@ -1,0 +1,1 @@
+select * from ogretim_gorevlisi	where bolum_id=(select bolum_id from ogrenci where soyad='soydemir')

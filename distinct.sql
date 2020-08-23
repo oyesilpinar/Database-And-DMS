@@ -1,0 +1,1 @@
+select distinct bolum_id  from ogrenci
